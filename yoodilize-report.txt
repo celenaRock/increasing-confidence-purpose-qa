@@ -1,0 +1,57 @@
+Brainstorm for Yoodlize, Testing:
+1.	Navigation and home pages are at the bottom of the page.
+	Not very user-friendly.
+2.	Create an account
+	Account verification bugs
+	The location of the sign-up is not obvious for the users.
+	Not intuitive.
+3.	Login/sign-up
+	Sing-up incomplete
+	Forgot user info.
+	Footer is not c
+4.	Broken links
+	Ex. map is broken.
+	Sometimes our Map shows items and other times it does not.
+	Map specks are not correct in general.
+	Inconsistent with search results.
+	Desktop version adjust to phone if the screen is minimized
+5.	Any category from the home page search all or see all, give you results up to about the 5th page: Not showing all results.
+6.	****** our search for the Rubik’s Cube did not produce results. It would be nice to get a message of “items not found ect…”
+
+
+	After spending some time exploring Yoodlize, what are your first impressions? Shaky work.
+	Is the site easy to use? NO
+	Is the user experience/flow of the website easy to navigate? No
+
+
+Yoodlize Search Test “Rubik’s Cube”
+No rubiks cube to be found during search
+o	Search from the home page
+o	Search from the advanced search both do not work together or give the same items.
+o	Only two items appear
+Click on the first result:
+	First item: “Crystal Cube of Destiny”: no action
+	The rent button does not allow users to rent unless users are from Utah.
+	Searching for a cube gives the same results.
+	Search does not adjust with the changing of the zipcode
+	Searching with Yoodlize, produces different results from each and any search.
+
+Positive list: 10min
+
+
+•	Clear story/ concept
+•	Easy sign-up
+•	Categories
+•	Handles images logically and consistently
+
+Known issues are all listed above within our brainstorm.
+
+Related notes are placed together in our first list.
+
+Lastly, let’s work more on increasing confidence! Take 30-40 minutes writing up a report of the issues you’ve found so far, 
+and your honest thoughts with Yoodlize! Remember that we are increasing others’ confidence in us as a QA if we tell the truth about how we feel about the website!
+Push your work to your GitHub account so that your education team can review your work.
+
+Testing Yoodilize, a lot of thought and consideration went into the concept. It's a new way to make use of your sitting items, and I'm sure that contributes to a better environmental footprint if less items are purchased and tossed away.
+Yoodilize has great features that, from a QA and UX/UI perspective that could use some tweaking. The data frame is extensive and vast, however, 
+Searching through this database is not quite polished. It seems to be in beta mode. 
